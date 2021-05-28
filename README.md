@@ -2,7 +2,7 @@
 
 ### Description
 
-You are the owner of a movie theater in **Thikkiiana City,** on the Wookiee homeworld of Kashyyyk. Your customers are bored with the never changing selection and are asking for something completely different - they want to see what's playing on Earth. Wookies are the main exporter of Computer Technology for the New Republic so naturally you roll up your sleeves and get to work. You quickly scribble down some notes and after a few hours of relentless work you have a design in mind.
+This is my solution to a [demo](https://codesubmit.io/library/react) take-home assignment with heavy router usage done over the course of a week in a spare time.
 
 ### Tasks
 
@@ -23,16 +23,3 @@ You are the owner of a movie theater in **Thikkiiana City,** on the Wookiee home
 -   Connecting to API Search, search functionality is working
 -   Bonus: Use the movies backdrop image creatively
 -   Bonus: Use the movies slug for routing
-
-### Useful Links
-
-[React Docs](https://reactjs.org/docs/context.html)
-
-### CodeSubmit
-
-Please organize, design, test and document your code as if it were
-going into production - then push your changes to the master branch. After you have pushed your code, you may submit the assignment on the assignment page.
-
-All the best and happy coding,
-
-The CodeSubmit Team
